@@ -93,6 +93,8 @@
 
 ## License 
 
+Данный материал основан на [TheOdinProject](https://github.com/TheOdinProject), созданном [Erik Trautman](https://github.com/eriktrautman).
+
 Материал распространяется под [Attribution-NonCommercial-ShareAlike 4.0 International](LICENSE.md).
 
 [LICENSE]: ./LICENSE.md
