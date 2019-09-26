@@ -15,6 +15,8 @@
 
 ### Основы
 
+Рассмотрим основы, необходимые для углубления в веб-разработку.
+
 1. Добро пожаловать на Vectree: [конспект](https://github.com/vectree/resources/blob/master/text/00012.md) | [видео](https://www.youtube.com/watch?v=x4IyAeSQ0lE)
 2. Так чем же занимаются веб-разработчики: [конспект](https://github.com/vectree/resources/blob/master/text/00013.md) | [видео](https://www.youtube.com/watch?v=Q5wcXPuufXQ)
 3. Мотивация: [конспект](https://github.com/vectree/resources/blob/master/text/00014.md) | [видео](https://www.youtube.com/watch?v=MmoVDbSyx14)
@@ -22,6 +24,8 @@
 5. Как работает Интернет: [конспект](https://github.com/vectree/resources/blob/master/text/00016.md) | [видео](https://www.youtube.com/watch?v=gYLhDJq0EFM)
 
 ### Подготовка
+
+В данном векторе мы подготовим ваше окружение разработчика, установим Ruby и Rails и запустим ваше первое веб-приложение.
 
 1. Настройка окружения: [конспект](https://github.com/vectree/resources/blob/master/text/00019.md)
 2. Подготовка: [конспект](https://github.com/vectree/resources/blob/master/text/00020.md)
@@ -32,11 +36,15 @@
 
 ### Основы Git
 
+В данном векторе вы изучите основы Git и то, каким образом вы можете загрузить ваши проекты на Github. В результате вы сможете поделиться своими проектами и кодом со всем миром!
+
 1. Введение в Git: [конспект](https://github.com/vectree/resources/blob/master/text/00026.md)
 2. Основы Git: [конспект](https://github.com/vectree/resources/blob/master/text/00027.md)
 3. Основы Git на практике: [проект](https://github.com/vectree/resources/blob/master/tasks/00114.md)
 
 ### Фронтенд
+
+В этом разделе вы потратите время на знакомство с основными клиентскими (используемыми в браузерах) технолониями, такими как HTML, CSS и Javascript. Вы сможете создать веб-страницу с использованием HTML / CSS и изучить основы программирования с помощью Javascript.
 
 1. Введение в Frontend: [конспект](https://github.com/vectree/resources/blob/master/text/00028.md)
 2. Основы HTML и CSS: [конспект](https://github.com/vectree/resources/blob/master/text/00029.md)
@@ -44,6 +52,8 @@
 4. Поисковая страница: [проект](https://github.com/vectree/resources/blob/master/tasks/00115.md)
 
 ### JavaScript
+
+В данном векторе мы наконец-то изучим JavaScript и узнаем, как сделать страницу динамичной.
 
 1. Введение: [конспект](https://github.com/vectree/resources/blob/master/text/00031.md)
 2. Основы: [конспект](https://github.com/vectree/resources/blob/master/text/00032.md) | [задачи](https://vectree.ru/text/46/1/0)
@@ -59,11 +69,15 @@
 
 ### Бэкенд
 
+В данном векторе вы узнаете о серверной части, где мы расскажем, что происходит за кулисами на веб-сервере. Вы сможете попробовать Ruby, великолепный язык, который тесно связан с Ruby on Rails.
+
 1. Введение в бэкенд: [конспект](https://github.com/vectree/resources/blob/master/text/00039.md)
 2. Основы Ruby: [конспект](https://github.com/vectree/resources/blob/master/text/00040.md)
 3. Ruby: [проект](https://github.com/vectree/resources/blob/master/tasks/00119.md)
 
 ### Фреймворки
+
+Вы, наверное, слышали о "Ruby on Rails", "React" или других фреймворках. В этом векторе вы узнаете, что такое фреймворк, почему мы его используем, и познакомимся с тем, который мы подробно рассмотрим в будущих курсах.
 
 1. Введение в фреймворки: [конспект](https://github.com/vectree/resources/blob/master/text/00041.md)
 2. Основы Ruby on Rails: [конспект](https://github.com/vectree/resources/blob/master/text/00042.md)
@@ -71,11 +85,15 @@
 
 ### В паре
 
+До сих пор вы, вероятно, работали самостоятельно. Теперь пришло время объединиться с другим человеком из любой точки мира.
+
 1. Введение в парное программирование: [конспект](https://github.com/vectree/resources/blob/master/text/00057.md)
 2. Подготовка к взаимодействию: [конспект](https://github.com/vectree/resources/blob/master/text/00058.md)
 3. Таймер - Помидор: [проект](https://github.com/vectree/resources/blob/master/tasks/00131.md)
 
 ### Заключение
+
+Теперь, когда вы попробовали на вкус все основные строительные блоки веб-приложений, мы вернемся назад и вспомним, как они все вписываются в общую картину.
 
 1. Соединим все: [конспект](https://github.com/vectree/resources/blob/master/text/00059.md)
 
