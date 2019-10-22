@@ -28,7 +28,7 @@
 В данном векторе мы подготовим ваше окружение разработчика, установим Ruby и Rails и запустим ваше первое веб-приложение.
 
 1. Настройка окружения: [конспект](https://github.com/vectree/resources/blob/master/text/00019.md) | [видео](https://www.youtube.com/watch?v=2kGPtnHCUtY)
-2. Подготовка: [конспект](https://github.com/vectree/resources/blob/master/text/00020.md)
+2. Подготовка: [конспект](https://github.com/vectree/resources/blob/master/text/00020.md) | [видео](https://www.youtube.com/watch?v=2kGPtnHCUtY)
 3. Редактор кода: [конспект](https://github.com/vectree/resources/blob/master/text/00024.md)
 4. Основы работы с терминалом: [конспект](https://github.com/vectree/resources/blob/master/text/00017.md)
 5. Установка Ruby: [конспект](https://github.com/vectree/resources/blob/master/text/00025.md)
