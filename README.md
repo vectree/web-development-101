@@ -29,8 +29,8 @@
 
 1. Настройка окружения: [конспект](https://github.com/vectree/resources/blob/master/text/00019.md) | [видео](https://www.youtube.com/watch?v=2kGPtnHCUtY)
 2. Подготовка: [конспект](https://github.com/vectree/resources/blob/master/text/00020.md) | [видео](https://www.youtube.com/watch?v=2kGPtnHCUtY)
-3. Редактор кода: [конспект](https://github.com/vectree/resources/blob/master/text/00024.md)
-4. Основы работы с терминалом: [конспект](https://github.com/vectree/resources/blob/master/text/00017.md)
+3. Редактор кода: [конспект](https://github.com/vectree/resources/blob/master/text/00024.md) | [видео](https://www.youtube.com/watch?v=OmGX3zZZD78)
+4. Основы работы с терминалом: [конспект](https://github.com/vectree/resources/blob/master/text/00017.md) | [видео](https://www.youtube.com/watch?v=cS8Omz1TIU0)
 5. Установка Ruby: [конспект](https://github.com/vectree/resources/blob/master/text/00025.md)
 6. Ваше первое Rails-приложение: [проект](https://github.com/vectree/resources/blob/master/tasks/00113.md)
 
