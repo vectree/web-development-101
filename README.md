@@ -38,15 +38,15 @@
 
 В данном векторе вы изучите основы Git и то, каким образом вы можете загрузить ваши проекты на Github. В результате вы сможете поделиться своими проектами и кодом со всем миром!
 
-1. Введение в Git: [конспект](https://github.com/vectree/resources/blob/master/text/00026.md)
-2. Основы Git: [конспект](https://github.com/vectree/resources/blob/master/text/00027.md)
+1. Введение в Git: [конспект](https://github.com/vectree/resources/blob/master/text/00026.md) | [видео](https://www.youtube.com/watch?v=EW5pfDLP9b4)
+2. Основы Git: [конспект](https://github.com/vectree/resources/blob/master/text/00027.md) | [видео](https://www.youtube.com/watch?v=_A1NIRcHW9Q)
 3. Основы Git на практике: [проект](https://github.com/vectree/resources/blob/master/tasks/00114.md)
 
 ### Фронтенд
 
 В этом разделе вы потратите время на знакомство с основными клиентскими (используемыми в браузерах) технолониями, такими как HTML, CSS и Javascript. Вы сможете создать веб-страницу с использованием HTML / CSS и изучить основы программирования с помощью Javascript.
 
-1. Введение в Frontend: [конспект](https://github.com/vectree/resources/blob/master/text/00028.md)
+1. Введение в Frontend: [конспект](https://github.com/vectree/resources/blob/master/text/00028.md) | [видео](https://www.youtube.com/watch?v=QC6nsNpJVOg)
 2. Основы HTML и CSS: [конспект](https://github.com/vectree/resources/blob/master/text/00029.md)
 3. Консоль разработчика: [конспект](https://github.com/vectree/resources/blob/master/text/00030.md)
 4. Поисковая страница: [проект](https://github.com/vectree/resources/blob/master/tasks/00115.md)
