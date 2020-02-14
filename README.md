@@ -55,9 +55,9 @@
 
 В данном векторе мы наконец-то изучим JavaScript и узнаем, как сделать страницу динамичной.
 
-1. Введение: [конспект](https://github.com/vectree/resources/blob/master/text/00031.md)
-2. Основы: [конспект](https://github.com/vectree/resources/blob/master/text/00032.md) | [задачи](https://vectree.ru/text/46/1/0)
-3. Консоль разработчика: [конспект](https://github.com/vectree/resources/blob/master/text/00033.md)
+1. Введение: [конспект](https://github.com/vectree/resources/blob/master/text/00031.md) | [видео](https://www.youtube.com/watch?v=XaB-y6Wmow8)
+2. Основы: [конспект](https://github.com/vectree/resources/blob/master/text/00032.md) | [задачи](https://vectree.ru/text/46/1/0) | [видео](https://www.youtube.com/watch?v=1hFsJJvGjb8)
+3. Консоль разработчика: [конспект](https://github.com/vectree/resources/blob/master/text/00033.md)  | [видео](https://www.youtube.com/watch?v=zaNtb4AqZDY)
 4. Функции: [конспект](https://github.com/vectree/resources/blob/master/text/00034.md)
 5. Камень, ножницы, бумага: [проект](https://github.com/vectree/resources/blob/master/tasks/00116.md)
 6. Чистый код: [конспект](https://github.com/vectree/resources/blob/master/text/00035.md)
